@@ -56,7 +56,7 @@ To run the project locally:
 
 1. Clone the repository:
    
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/rohit00-glitch/Raasa-restaurant-
 
 2. Navigate to the project directory:
    
