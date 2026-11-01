@@ -17,7 +17,7 @@ export const About = () => {
         </div>
         <div className="bg-[#D9CBB8] p-4">
           <img 
-            src="/src/assets/images/hero_bg_1793549190117.jpg" 
+            src="/images/hero_bg_1793549190117.jpg" 
             alt="Restaurant Interior" 
             className="w-full h-[400px] object-cover"
           />

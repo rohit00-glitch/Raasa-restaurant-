@@ -2,12 +2,12 @@ import React from 'react';
 import { Button } from './ui/Button';
 
 const dishes = [
-  { name: 'Royal Paneer Tikka', desc: 'Paneer marinated in exotic spices, grilled to perfection.', price: '850', img: '/src/assets/images/dish_1_paneer_1793549190618.jpg' },
-  { name: 'Dal Makhani', desc: 'Slow-cooked black lentils, creamy and rich.', price: '700', img: '/src/assets/images/dish_2_dal_1793549190026.jpg' },
-  { name: 'Hyderabadi Dum Biryani', desc: 'Aromatic basmati rice with tender spiced meat.', price: '1200', img: '/src/assets/images/dish_3_biryani_1793549190790.jpg' },
-  { name: 'Butter Chicken', desc: 'Tender chicken in a velvety tomato-based gravy.', price: '1100', img: '/src/assets/images/dish_4_butter_chicken_1793549190166.jpg' },
-  { name: 'Tandoori Platter', desc: 'Assorted marinated meats and vegetables.', price: '1500', img: '/src/assets/images/dish_5_tandoori_1793549189781.jpg' },
-  { name: 'Saffron Rasmalai', desc: 'Delicate cottage cheese dumplings in saffron milk.', price: '600', img: '/src/assets/images/dish_6_rasmalai_1793549190978.jpg' },
+  { name: 'Royal Paneer Tikka', desc: 'Paneer marinated in exotic spices, grilled to perfection.', price: '850', img: '/images/dish_1_paneer_1793549190618.jpg' },
+  { name: 'Dal Makhani', desc: 'Slow-cooked black lentils, creamy and rich.', price: '700', img: '/images/dish_2_dal_1793549190026.jpg' },
+  { name: 'Hyderabadi Dum Biryani', desc: 'Aromatic basmati rice with tender spiced meat.', price: '1200', img: '/images/dish_3_biryani_1793549190790.jpg' },
+  { name: 'Butter Chicken', desc: 'Tender chicken in a velvety tomato-based gravy.', price: '1100', img: '/images/dish_4_butter_chicken_1793549190166.jpg' },
+  { name: 'Tandoori Platter', desc: 'Assorted marinated meats and vegetables.', price: '1500', img: '/images/dish_5_tandoori_1793549189781.jpg' },
+  { name: 'Saffron Rasmalai', desc: 'Delicate cottage cheese dumplings in saffron milk.', price: '600', img: '/images/dish_6_rasmalai_1793549190978.jpg' },
 ];
 
 export const SignatureDishes = () => {
